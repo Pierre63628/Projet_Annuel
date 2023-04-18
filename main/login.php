@@ -1,11 +1,11 @@
 <?php session_start(); ?>
 
-<?php require "core/functions.php" ?>
+<?php require "../core/functions.php" ?>
 
 <?php include "header.php" ?>
 
 
-<img class="img-fluid" src="./Image/logo1.png" alt="logo">
+<img class="img-fluid" src="../Image/logo1.png" alt="logo">
 
 
 <div class="d-flex justify-content-center">
